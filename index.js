@@ -26,4 +26,4 @@ function sayHiToGrandma(string){
   }
 }
 
-function 
+function
